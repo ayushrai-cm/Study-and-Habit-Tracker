@@ -9,6 +9,12 @@ A simple console-based Habit Tracking system built in C.
 - View streaks and performance
 - Save/load data using binary file
 
-## How to run
-gcc main.c -o habit
-./habit
+## How to Run
+gcc main.c -o habit  
+./habit   (Linux/Mac)  
+habit.exe (Windows)
+
+## Tech Used
+- C Programming Language
+- File Handling
+- Structures
